@@ -1,3 +1,11 @@
+on:
+ push:
+  branches:
+  - main
+steps:
+- run: Repo Visualizer
+  if: github.event_name == 'push'
+  
             - name: Repo Visualizer
   # You may pin to the exact commit or the version.
   # uses: githubocto/repo-visualizer@a999615bdab757559bf94bda1fe6eef232765f85
