@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Callback page</title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<section data-role="wrapper">
+			<header data-role="page_header">
+				<h1>Logging you in. 1 sec...</h1>
+		</section>
+		<script>
+			//localStorage.setItem("bearer_str", "eyJraWQiOiJsS1ZYY3NUaDFPTlU1RmFnS3VYc2NMQmZDR0J0dmtubGt3RStkK0J5NmdZPSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoiZk1qcW5UQWYtT0pmak5JWUtMb0t4dyIsInN1YiI6ImFhZWRhYjY4LTdlN2QtNGFiMi1iZjU2LTgxMWM0MWZhZGE5OSIsImNvZ25pdG86Z3JvdXBzIjpbInN0dWRlbnQiXSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLnVzLWVhc3QtMS5hbWF6b25hd3MuY29tXC91cy1lYXN0LTFfd240OXpWWnYyIiwiY29nbml0bzp1c2VybmFtZSI6InRlc3RzdHVkZW50IiwiY29nbml0bzpyb2xlcyI6WyJhcm46YXdzOmlhbTo6ODUyMzk4ODIxMTA0OnJvbGVcL2JpcmQtYXBwLXN0dWRlbnQtcm9sZSJdLCJhdWQiOiI1b2x2N25lN2wyOWhmNGk0N3E1NjI2MTJwOCIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNjQxNTgzNzAyLCJleHAiOjE2NDE1ODczMDIsImlhdCI6MTY0MTU4MzcwMiwianRpIjoiMWQ2ODVhMDItNzE2NS00ODNhLThiNDgtNmZiYzJkYTRkYWE0IiwiZW1haWwiOiJhd3NtaXJhQGFtYXpvbi5jb20ifQ.CR7PseScwQ85w3SujfW7gNKNiJDCIRbub4TammEJ4Nviq4lec68HRNOGVk6n2HGm1M5dL6KLh3PRfBCZKEXJgBBbJvm2pw6ejqeoZqJaEWcMfnH92NrND5NKds7s8yKSGv8Bke8pc0mAnk7DbhTtFNpI7GQz5GDkP9FWpwQxAmL6EQXm6iXqN7soC53YedThbbGcykNdF4LVJGhzsDP0Kf_NA72O__tkds3b81FioKqlmUhhJCFcSkxxI3bdcPhH02NlhBJvvytyOnCw7YDw7HvXU2K-46MAYtO5AgdtGxjIC2Msaac-AIxoolFLWlp4UX6yewnsV8PZcRk3nB3pzg");
+			//window.location = "/";
+
+
+			var id_token_str =  window.location.hash.split("&access_token=")[0];
+			var bearer_str = id_token_str.replace("#id_token=", "");
+			window.localStorage.setItem("bearer_str", bearer_str);
+			window.location = "/";
+
+		</script>
+	</body>
+</html>

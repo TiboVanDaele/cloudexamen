@@ -1,0 +1,261 @@
+[data-role="wrapper"]{
+    /*width: 360px;*/
+    /*margin: 64px auto;*/
+    /*border: 2px solid #FFF1BD;*/
+    /*border-radius: 6px;*/
+    position: relative;
+    /*height: 600px;*/
+    overflow: scroll;
+    background: #FFF1BD;
+}
+[data-role="page_content"]{
+    position: relative;
+}
+[data-role="page_header"]{
+	/*background-color: #A3DA8D;*/
+
+}
+[data-role="page_header"] > h1{
+    background: #146356;
+    color: #e2f1de;
+    text-transform: capitalize;
+    height: 325px;
+    background-image: url(/images/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+[data-action="navigation"]{
+    cursor: pointer;
+    display: inline-block;
+    padding: 6px 12px;
+    transition: background-color 0.24s ease 0s;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding: 8px 16px;
+}
+[data-action="navigation"]:hover{
+    background-color: #156355;
+    color: #e2f1de;
+	/*text-decoration: underline;*/
+}
+[data-action="navigation"][data-selected]{
+	cursor: not-allowed;
+	background-color: #146356;
+    color: #e2f1de;
+}
+[data-role="bird_modal"],
+[data-role="problem_modal"]{
+    background-color: #fff1bd;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    z-index: 1;
+}
+
+
+
+[data-role="problem_modal"] > h1,
+[data-role="problem_modal"] > p{
+	color: #146356;
+}
+
+[data-role="problem_modal"] > h1{
+    /*color:  #32322a;*/
+}
+
+[data-role="problem_modal"] > p{
+
+}
+
+
+[data-role="bird_modal"]{
+    background-color: #fff1bd;
+    text-align: center;
+}
+[data-role="bird_modal"] > h1{
+    font-size: 24px;
+    background: #146256;
+    color: white;
+    margin-bottom: 8px;
+}
+[data-role="bird_modal"] > img{
+    width: 360px;
+    text-align: center;
+    border-radius: 4px;
+    /*border: 8px solid #dccfd0;*/
+}
+
+[data-action="purge_bird_modal"]{
+    display: inline-block;
+    border: 1px solid white;
+    text-transform: uppercase;
+    font-size: 12px;
+    padding: 6px 12px;
+    letter-spacing: 1px;
+    background-color: #454844;
+    cursor: pointer;
+    border-radius: 4px;
+    font-weight: 600;
+    transition:  background-color 0.24s ease 0s;
+    color: #e2f1de;
+}
+[data-action="purge_problem_modal"],
+[data-action="login"],
+[data-action="logout"],
+[data-action="validate_credentials"]{
+	display: inline-block;
+    border: 1px solid white;
+    text-transform: uppercase;
+    font-size: 12px;
+    padding: 6px 12px;
+    letter-spacing: 1px;
+    margin: 24px;
+    background-color: #131413;
+    cursor: pointer;
+    border-radius: 4px;
+    font-weight: 600;
+    transition:  background-color 0.24s ease 0s;
+    color: #e2f1de;
+}
+[data-action="purge_bird_modal"]:hover,
+[data-action="purge_problem_modal"]:hover,
+[data-action="login"]:hover,
+[data-action="logout"]:hover{
+	background-color: #A3DA8D;
+}
+
+[data-role="bird_wrapper"]{
+    /*background-color: black;*/
+    text-align: center;
+}
+[data-role="bird_wrapper"] > a{
+    display: inline-block;
+}
+[data-role="bird_wrapper"] > a > figure > img{
+    opacity: 0.9;
+    transition: opacity 0.24s ease 0s;
+    vertical-align: bottom;
+}
+[data-role="bird_wrapper"] > a > figure > figcaption{
+    display: none;
+}
+[data-role="bird_wrapper"] > a:hover > figure > img{
+    opacity: 1;
+}
+[data-role="bird_wrapper"] > figure{
+    /*border:  3px solid blue;*/
+}
+[data-role="secret_container"]{
+    /*background-color: #F3C892;*/
+    width: 325px;
+    display: block;
+    margin: 0 auto 24px auto;
+
+}
+[data-role="student_info"]{
+    display: block;
+    border-bottom: 1px solid #434343;
+    border-top: 1px solid whitesmoke;
+    margin-bottom: 7px;
+    background: #c5c0ac;
+    border-radius: 4px;
+    border: 1px solid #a5a194;
+}
+
+[data-role="student_info"] > span,
+[data-role="student_info"] > section > span{
+    display: inline-block;
+    /* width: 100px; */
+    padding: 4px 6px;
+    vertical-align: middle;
+    text-align: center;
+    margin-left: 12px;
+}
+[data-role="student_info"] > img{
+    vertical-align: middle;
+    width:  40%;
+}
+[data-role="bird_finder_detail"]{
+    background-color: #7e7d77;
+}
+[data-role="student_info"] [data-role="bird_finder_detail"] > span{
+    color: #dbebd5;
+    width: auto;
+}
+[data-role="student_info"] [data-role="student_name"]{
+    float: right;
+    font-weight: 600;
+    color: white;
+    font-size: 17px;
+    line-height: 17px;
+    margin-right: 0;
+}
+[data-role="student_name"] > em{
+    margin-left: 4px;
+    font-size: 12px;
+}
+[data-role="student_info"] [data-role="bird_name"]{
+    font-size: 17px;
+    width:  auto;
+}
+[data-role="bird_name"] > em{
+    color: #156354;
+    /* font-size: 26px; */
+    /* vertical-align: middle; */
+    margin-left: 5px;
+}
+[data-role="location"]{
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 2px;
+    color: white;
+    /*background-color: rebeccapurple;*/
+}
+[data-role="class_type"]{
+    /*background-color: grey;*/
+}
+
+
+[data-role="loggedin_in_student_name"]{
+    font-size: 16px;
+    color: #5d691d;
+    padding: 12px 24px;
+    float: right;
+    line-height: 20px;
+}
+
+[data-action="validate_credentials"]{
+    background-color: #156355;
+}
+
+[data-role="validate_credentials_output"]{
+    display: block;
+    padding: 12px 24px;
+}
+
+footer{
+    display: block;
+    margin: 36px auto 0 auto;
+    text-align: center;
+}
+footer > span{
+    display: block;
+    text-align: left;
+    padding: 12px 24px;
+}
+footer > span[data-role="rights"]{
+    background-color: #bdc1ab;
+    letter-spacing: 1px;
+    font-size: 14px;
+    font-style: italic;
+}
+
+/* MOBILE */
+/*@media only screen and (max-width: 360px){
+    [data-role="wrapper"]{
+        width: auto;
+         margin: 0;
+    }
+}*/

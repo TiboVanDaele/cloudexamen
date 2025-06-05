@@ -1,0 +1,115 @@
+[{
+    "bird_type_str": "American Crow",
+    "image_name_str": "american_crow.png",
+    "description_str": "American Crows are familiar over much of the continent: large, intelligent, all-black birds with hoarse, cawing voices. They are common sights in treetops, fields, and roadsides, and in habitats ranging from open woods and empty beaches to town centers. They usually feed on the ground and eat almost anything—typically earthworms, insects and other small animals, seeds, and fruit; also garbage, carrion, and chicks they rob from nests. Their flight style is unique, a patient, methodical flapping that is rarely broken up with glides."
+},
+{
+    "bird_type_str": "American Goldfinch",
+    "image_name_str": "american_goldfinch.png",
+    "description_str": "This handsome little finch, the state bird of New Jersey, Iowa, and Washington, is welcome and common at feeders, where it takes primarily sunflower and nyjer. Goldfinches often flock with Pine Siskins and Common Redpolls. Spring males are brilliant yellow and shiny black with a bit of white. Females and all winter birds are more dull but identifiable by their conical bill; pointed, notched tail; wingbars; and lack of streaking. During molts they look bizarrely patchy."
+},
+{
+    "bird_type_str": "American Kestrel",
+    "image_name_str": "american_kestrel.png",
+    "description_str": "North America’s littlest falcon, the American Kestrel packs a predator’s fierce intensity into its small body. It's one of the most colorful of all raptors: the male’s slate-blue head and wings contrast elegantly with his rusty-red back and tail; the female has the same warm reddish on her wings, back, and tail. Hunting for insects and other small prey in open territory, kestrels perch on wires or poles, or hover facing into the wind, flapping and adjusting their long tails to stay in place. Kestrels are declining in parts of their range; you can help them by putting up nest boxes."
+},
+{
+    "bird_type_str": "American Robin",
+    "image_name_str": "american_robin.png",
+    "description_str": "The quintessential early bird, American Robins are common sights on lawns across North America, where you often see them tugging earthworms out of the ground. Robins are popular birds for their warm orange breast, cheery song, and early appearance at the end of winter. Though they’re familiar town and city birds, American Robins are at home in wilder areas, too, including mountain forests and Alaskan wilderness."
+},
+{
+    "bird_type_str": "Baltimore Oriole",
+    "image_name_str": "baltimore_oriole.png",
+    "description_str": "The rich, whistling song of the Baltimore Oriole, echoing from treetops near homes and parks, is a sweet herald of spring in eastern North America. Look way up to find these singers: the male’s brilliant orange plumage blazes from high branches like a torch. Nearby, you might spot the female weaving her remarkable hanging nest from slender fibers. Fond of fruit and nectar as well as insects, Baltimore Orioles are easily lured to backyard feeders."
+},
+{
+    "bird_type_str": "Barn Owl",
+    "image_name_str": "barn_owl.png",
+    "description_str": "Ghostly pale and normally strictly nocturnal, Barn Owls are silent predators of the night world. Lanky, with a whitish face, chest, and belly, and buffy upperparts, this owl roosts in hidden, quiet places during the day. By night, they hunt on buoyant wingbeats in open fields and meadows. You can find them by listening for their eerie, raspy calls, quite unlike the hoots of other owls. Despite a worldwide distribution, Barn Owls are declining in parts of their range due to habitat loss."
+},    
+{
+    "bird_type_str": "Blue Jay",
+    "image_name_str": "blue_jay.png",
+    "description_str": "This common, large songbird is familiar to many people, with its perky crest; blue, white, and black plumage; and noisy calls. Blue Jays are known for their intelligence and complex social systems with tight family bonds. Their fondness for acorns is credited with helping spread oak trees after the last glacial period."
+},    
+{
+    "bird_type_str": "Carolina Wren",
+    "image_name_str": "carolina_wren.png",
+    "description_str": "In summer it can seem that every patch of woods in the eastern United States rings with the rolling song of the Carolina Wren. This shy bird can be hard to see, but it delivers an amazing number of decibels for its size. Follow its teakettle-teakettle! and other piercing exclamations through backyard or forest, and you may be rewarded with glimpses of this bird's rich cinnamon plumage, white eyebrow stripe, and long, upward-cocked tail. This hardy bird has been wintering farther and farther north in recent decades."
+},    
+{
+    "bird_type_str": "Cedar Waxwing",
+    "image_name_str": "cedar_waxwing.png",
+    "description_str": "A treat to find in your binocular viewfield, the Cedar Waxwing is a silky, shiny collection of brown, gray, and lemon-yellow, accented with a subdued crest, rakish black mask, and brilliant-red wax droplets on the wing feathers. In fall these birds gather by the hundreds to eat berries, filling the air with their high, thin, whistles. In summer you’re as likely to find them flitting about over rivers in pursuit of flying insects, where they show off dazzling aeronautics for a forest bird."
+},
+{
+    "bird_type_str": "Downy Woodpecker",
+    "image_name_str": "downy_woodpecker.png",
+    "description_str": "The active little Downy Woodpecker is a familiar sight at backyard feeders and in parks and woodlots, where it joins flocks of chickadees and nuthatches, barely outsizing them. An often acrobatic forager, this black-and-white woodpecker is at home on tiny branches or balancing on slender plant galls, sycamore seed balls, and suet feeders. Downies and their larger lookalike, the Hairy Woodpecker, are one of the first identification challenges that beginning bird watchers master."
+},
+{
+    "bird_type_str": "Eastern Bluebird",
+    "image_name_str": "eastern_bluebird.png",
+    "description_str": "Most of the country drives during an eastern North American summer will turn up a few Eastern Bluebirds sitting on telephone wires or perched atop a nest box, calling out in a short, wavering voice or abruptly dropping to the ground after an insect. Marvelous birds to capture in your binoculars, male Eastern Bluebirds are a brilliant royal blue on the back and head, and warm red-brown on the breast. Blue tinges in the wings and tail give the grayer females an elegant look."
+},
+{
+    "bird_type_str": "Eastern Screech Owl",
+    "image_name_str": "eastern_screech_owl.png",
+    "description_str": "If a mysterious trill catches your attention in the night, bear in mind the spooky sound may come from an owl no bigger than a pint glass. Common east of the Rockies in woods, suburbs, and parks, the Eastern Screech-Owl is found wherever trees are, and they’re even willing to nest in backyard nest boxes. These supremely camouflaged birds hide out in nooks and tree crannies through the day, so train your ears and listen for them at night."
+},
+{
+    "bird_type_str": "European Starling",
+    "image_name_str": "european_starling.png",
+    "description_str": "First brought to North America by Shakespeare enthusiasts in the nineteenth century, European Starlings are now among the continent’s most numerous songbirds. They are stocky black birds with short tails, triangular wings, and long, pointed bills. Though they’re sometimes resented for their abundance and aggressiveness, they’re still dazzling birds when you get a good look. Covered in white spots during winter, they turn dark and glossy in summer. For much of the year, they wheel through the sky and mob lawns in big, noisy flocks."
+},
+{
+    "bird_type_str": "House Sparrow",
+    "image_name_str": "house_sparrow.png",
+    "description_str": "You can find House Sparrows most places where there are houses (or other buildings), and few places where there aren’t. Along with two other introduced species, the European Starling and the Rock Pigeon, these are some of our most common birds. Their constant presence outside our doors makes them easy to overlook, and their tendency to displace native birds from nest boxes causes some people to resent them. But House Sparrows, with their capacity to live so intimately with us, are just beneficiaries of our own success."
+},
+{
+    "bird_type_str": "House Wren",
+    "image_name_str": "house_wren.png",
+    "description_str": "A plain brown bird with an effervescent voice, the House Wren is a common backyard bird over nearly the entire Western Hemisphere. Listen for its rush-and-jumble song in summer and you’ll find this species zipping through shrubs and low tree branches, snatching at insects. House Wrens will gladly use nestboxes, or you may find their twig-filled nests in old cans, boots, or boxes lying around in your garage."
+},
+{
+    "bird_type_str": "Mourning Dove",
+    "image_name_str": "mourning_dove.png",
+    "description_str": "A graceful, slender-tailed, small-headed dove that’s common across the continent. Mourning Doves perch on telephone wires and forage for seeds on the ground; their flight is fast and bullet straight. Their soft, drawn-out calls sound like laments. When taking off, their wings make a sharp whistling or whinnying. Mourning Doves are the most frequently hunted species in North America."
+},
+{
+    "bird_type_str": "Northern Cardinal",
+    "image_name_str": "northern_cardinal.png",
+    "description_str": "The male Northern Cardinal is perhaps responsible for getting more people to open up a field guide than any other bird. They’re a perfect combination of familiarity, conspicuousness, and style: a shade of red you can’t take your eyes off. Even the brown females sport a sharp crest and warm red accents. Cardinals don’t migrate and they don’t molt into a dull plumage, so they’re still breathtaking in winter’s snowy backyards. In summer, their sweet whistles are one of the first sounds of the morning."
+},
+{
+    "bird_type_str": "Peregrine Falcon",
+    "image_name_str": "peregrine_falcon.png",
+    "description_str": "Powerful and fast-flying, the Peregrine Falcon hunts medium-sized birds, dropping down on them from high above in a spectacular stoop. They were virtually eradicated from eastern North America by pesticide poisoning in the middle 20th century. After significant recovery efforts, Peregrine Falcons have made an incredible rebound and are now regularly seen in many large cities and coastal areas."
+},
+{
+    "bird_type_str": "Red-winged Blackbird",
+    "image_name_str": "red-winged_blackbird.png",
+    "description_str": "One of the most abundant birds across North America, and one of the most boldly colored, the Red-winged Blackbird is a familiar sight atop cattails, along soggy roadsides, and on telephone wires. Glossy-black males have scarlet-and-yellow shoulder patches they can puff up or hide depending on how confident they feel. Females are a subdued, streaky brown, almost like a large, dark sparrow. Their early and tumbling song are happy indications of the return of spring."
+},
+{
+    "bird_type_str": "Rufous Hummingbird",
+    "image_name_str": "rufous_hummingbird.png",
+    "description_str": "One of the feistiest hummingbirds in North America. The brilliant orange male and the green-and-orange female Rufous Hummingbird are relentless attackers at flowers and feeders, going after (if not always defeating) even the large hummingbirds of the Southwest, which can be double their weight. Rufous Hummingbirds are wide-ranging, and breed farther north than any other hummingbird. Look for them in spring in California, summer in the Pacific Northwest and Alaska, and fall in the Rocky Mountains as they make their annual circuit of the West."
+},
+{
+    "bird_type_str": "Song Sparrow",
+    "image_name_str": "song_sparrow.png",
+    "description_str": "A rich, russet-and-gray bird with bold streaks down its white chest, the Song Sparrow is one of the most familiar North American sparrows. Don’t let the bewildering variety of regional differences this bird shows across North America deter you: it’s one of the first species you should suspect if you see a streaky sparrow in an open, shrubby, or wet area. If it perches on a low shrub, leans back, and sings a stuttering, clattering song, so much the better."
+},
+{
+    "bird_type_str": "Tufted Titmouse",
+    "image_name_str": "tufted_titmouse.png",
+    "description_str": "A little gray bird with an echoing voice, the Tufted Titmouse is common in eastern deciduous forests and a frequent visitor to feeders. The large black eyes, small, round bill, and brushy crest gives these birds a quiet but eager expression that matches the way they flit through canopies, hang from twig-ends, and drop in to bird feeders. When a titmouse finds a large seed, you’ll see it carry the prize to a perch and crack it with sharp whacks of its stout bill."
+},
+{
+    "bird_type_str": "White-breasted Nuthatch",
+    "image_name_str": "white-breasted_nuthatch.png",
+    "description_str": "A common feeder bird with clean black, gray, and white markings, White-breasted Nuthatches are active, agile little birds with an appetite for insects and large, meaty seeds. They get their common name from their habit of jamming large nuts and acorns into tree bark, then whacking them with their sharp bill to “hatch” out the seed from the inside. White-breasted Nuthatches may be small but their voices are loud, and often their insistent nasal yammering will lead you right to them."
+}]
